@@ -14,6 +14,14 @@ CulinaryVertex is a full-stack application designed for the "Gourmet Bistro" res
     *   User Accounts
     *   Admin Dashboard (Implementation Pending)
 
+
+## System Architecture
+
+The diagram below illustrates CulinaryVertex's AI-powered restaurant workflow, including user authentication, reservations, order processing, and recommendations.
+
+![CulinaryVertex System Architecture](./CulinaryVertex%20Design.png)
+
+
 ## Tech Stack
 
 *   **Frontend:**
